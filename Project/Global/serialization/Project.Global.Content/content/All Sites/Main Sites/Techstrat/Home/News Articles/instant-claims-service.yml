@@ -1,0 +1,43 @@
+﻿---
+ID: "a8815b25-cbe7-46c2-aef9-97b7f5b5dda6"
+Parent: "fe025fcc-7587-430a-a4ff-7843b633f720"
+Template: "d5d8d41c-7421-4a26-9776-6a80c5857256"
+Path: "/sitecore/content/All Sites/Main Sites/Techstrat/Home/News Articles/instant-claims-service"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Instant claim services
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c7707e8-7de7-42e5-86c9-e824da83a36c"
+      Hint: publishDate
+      Value: 20200907T000000Z
+    - ID: "1f1af0fc-6021-436f-99df-aa43a9ea23cd"
+      Hint: author
+      Value: Judy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T105804Z
+    - ID: "2c9d2e49-2b2e-4e02-bd13-dd1b4fd3941e"
+      Hint: metaTitle
+      Value: "FWD launches market-first instant claims service"
+    - ID: "82efae60-229a-49ed-a5eb-e56f5f7f27df"
+      Hint: description
+      Value: |
+        <p>Techstrat has launched an innovative instant claims service through its eServices mobile application (&ldquo;eServices app&rdquo;), taking claims convenience to an unprecedented level. First of its kind in India, the solution allows customers to receive claims payments within seconds after claims applications approval via the Faster Payment System (&ldquo;FPS&rdquo;) and 7-Eleven convenience stores. </p>
+        <p>
+        Techstrat is now inviting its customers to embark on a new and paperless claims journey that shortens the claim pay-out process from a few working days to seconds. Claim applications submitted to the eServices app are processed instantly by its AI assessment engine, and customers can receive claims approvals and get paid through their selected means instantly via FPS, at any 7-Eleven convenience store at MTR stations, or conventionally by direct transfer to their bank accounts. </p>
+    - ID: "8ed70b15-fc90-44ce-9a44-d66410da27f8"
+      Hint: summary
+      Value: "AI claims assessment engine enables customer payments in seconds via FPS and 7-Eleven stores"
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: "Techstrat launches market-first instant claims service"
+    - ID: "f1c7dee5-a3db-48bc-9efb-be798a70d009"
+      Hint: image
+      Value: |
+        <image mediaid="{026910E2-E9B2-4EA1-B8FC-D1032C64C900}" />

@@ -1,0 +1,67 @@
+﻿---
+ID: "477f89db-6e89-42d0-9ac0-f91489270d00"
+Parent: "fe025fcc-7587-430a-a4ff-7843b633f720"
+Template: "d5d8d41c-7421-4a26-9776-6a80c5857256"
+Path: "/sitecore/content/All Sites/Main Sites/Techstrat/Home/News Articles/launch-of-crisis-series"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{242979E1-D6DD-4488-A70A-4719F07841F8}">
+          <p:d />
+        </r>
+        <r
+          uid="{45475CFF-1D39-4B39-ABE8-4A0BA7CF971E}"
+          p:before="*"
+          s:ds=""
+          s:id="{8EFD70EA-2F78-4341-AE49-6A9CBCCFA4E2}"
+          s:par="showImage=1"
+          s:ph="main" />
+        <r
+          uid="{6C50F494-BFA8-4FE6-98B4-19623914EACC}">
+          <p:d />
+        </r>
+        <r
+          uid="{8168899E-90C7-43D2-8CC1-1E60EE292EE9}"
+          p:after="*[1=2]"
+          s:id="{81203FEF-98E8-410D-9284-56C313CF4B8E}"
+          s:ph="footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c7707e8-7de7-42e5-86c9-e824da83a36c"
+      Hint: publishDate
+      Value: 20210516T000000Z
+    - ID: "1f1af0fc-6021-436f-99df-aa43a9ea23cd"
+      Hint: author
+      Value: David
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T055856Z
+    - ID: "2c9d2e49-2b2e-4e02-bd13-dd1b4fd3941e"
+      Hint: metaTitle
+      Value: Launch of crisis series
+    - ID: "82efae60-229a-49ed-a5eb-e56f5f7f27df"
+      Hint: description
+      Value: Techstrat has also partnered with Senior Citizen Home Safety Association to provide dementia support services to customers of the two new CXD plans2, helping Alzheimer &  disease patients and their caregivers in a systematic way.
+    - ID: "8ed70b15-fc90-44ce-9a44-d66410da27f8"
+      Hint: summary
+      Value: First insurer in market to partner with Senior Citizen Home Safety Association to provide dementia support
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: Techstrat commits to covering unknown diseases in a first for the city
+    - ID: "f1c7dee5-a3db-48bc-9efb-be798a70d009"
+      Hint: image
+      Value: |
+        <image mediaid="{604A9E56-C3F7-4AD5-B5A6-6E7C8A8255A4}" />

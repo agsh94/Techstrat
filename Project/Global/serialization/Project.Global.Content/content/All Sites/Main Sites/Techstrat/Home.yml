@@ -1,0 +1,42 @@
+﻿---
+ID: "24ead160-b13f-4fc9-982e-c1426e090b12"
+Parent: "645073fe-3b9f-4a46-b944-96b7ab7b205d"
+Template: "b6e45500-764b-401b-b9ac-68cb2dde6f16"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{712957C4-DEB7-45E7-A6AB-7A9260AD4882}">
+          <p:d />
+        </r>
+        <r
+          uid="{3CC9C00A-197F-4976-A280-EA6833D3891E}"
+          p:after="r[@uid='{C847413F-6415-46D5-B5E5-C0A4335161A2}']"
+          s:ds="{FE025FCC-7587-430A-A4FF-7843B633F720}"
+          s:id="{302488A1-5DCA-4311-A575-76D50ECAF394}"
+          s:par=""
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210515T212238Z
+    - ID: "2c9d2e49-2b2e-4e02-bd13-dd1b4fd3941e"
+      Hint: metaTitle
+      Value: Home
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: Home

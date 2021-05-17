@@ -1,0 +1,14 @@
+﻿---
+ID: "1e2ead64-9788-4326-9777-8fa020d0c923"
+Parent: "910d1166-663a-494f-bf01-e6e0a27548a5"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Hustle/Configuration Template
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210515T132245Z

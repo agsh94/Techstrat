@@ -1,0 +1,14 @@
+﻿---
+ID: "1712419e-c15f-4885-b333-68c9360bd3f8"
+Parent: "b870770a-4f76-4eb8-a1c5-e5fa68cd89a9"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/_baseMedia/Media Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T061407Z

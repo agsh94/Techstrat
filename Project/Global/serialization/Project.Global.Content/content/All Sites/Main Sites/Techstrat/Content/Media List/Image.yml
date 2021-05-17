@@ -1,0 +1,20 @@
+﻿---
+ID: "5e6c149d-1c06-44c6-a956-662bd0785baa"
+Parent: "6ff47606-dcde-4d64-857d-076adc9a94ea"
+Template: "857f4d60-19e3-4048-9b6a-4fc001244709"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Content/Media List/Image
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T055631Z
+    - ID: "578f3b86-6563-4384-8e83-bf651928c0a2"
+      Hint: value
+      Value: image
+    - ID: "7088f165-0e81-47ae-89fc-9986a9662cf5"
+      Hint: key
+      Value: 1

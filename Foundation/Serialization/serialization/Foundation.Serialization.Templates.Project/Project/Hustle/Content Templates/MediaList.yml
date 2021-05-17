@@ -1,0 +1,25 @@
+﻿---
+ID: "857f4d60-19e3-4048-9b6a-4fc001244709"
+Parent: "8c387133-2b0d-4373-aeb7-a798b4eb24f3"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Hustle/Content Templates/MediaList
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/media_play.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{A5C9F8A1-0934-43A9-BC1F-7EF31C9FD8EE}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{D7D22075-BF7A-45D8-822E-EAB9995D0999}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210515T130613Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "b6e45500-764b-401b-b9ac-68cb2dde6f16"
+Parent: "2f2c41ae-60fc-4d2f-842c-6732d3ac1e48"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Hustle/Page Templates/HomePage
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: network/16x16/home.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {6B507A0E-599B-42FA-8955-55FE7A5CB47D}
+    {66B01873-6E8A-4A2B-B681-B39892C9ACE8}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{6073140F-7771-4D2F-81B8-05E1F2DC76C4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Home Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210515T131152Z

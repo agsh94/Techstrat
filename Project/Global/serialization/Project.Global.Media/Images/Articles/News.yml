@@ -1,0 +1,18 @@
+﻿---
+ID: "a4733e49-500d-4658-afa7-d34aef4d2b5c"
+Parent: "6ff1524c-a15c-4328-bfff-1c308642da55"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Images/Articles/News
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applicationsv2/32x32/book_yellow.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T051654Z

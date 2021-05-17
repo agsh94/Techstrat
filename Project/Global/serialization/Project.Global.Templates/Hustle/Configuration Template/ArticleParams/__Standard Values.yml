@@ -1,0 +1,22 @@
+﻿---
+ID: "28487b35-d50b-4122-967b-3ce39bc0bb9c"
+Parent: "38ee8bb9-1414-404b-8a39-7651bf5ae9a2"
+Template: "38ee8bb9-1414-404b-8a39-7651bf5ae9a2"
+Path: /sitecore/templates/Project/Hustle/Configuration Template/ArticleParams/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T100947Z
+    - ID: "9c1f7aca-0d84-4df2-b5b8-df1151991e96"
+      Hint: showImage
+      Type: Checkbox
+      Value: 1

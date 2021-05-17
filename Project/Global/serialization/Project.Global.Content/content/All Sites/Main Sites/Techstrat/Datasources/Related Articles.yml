@@ -1,0 +1,26 @@
+﻿---
+ID: "f09d88dd-8bec-4ff5-9f20-da324be682b9"
+Parent: "53e068c2-134d-4d31-9ba4-efec0f0f3e7e"
+Template: "ca64448a-15f7-4845-98c4-6aae13f53780"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Datasources/Related Articles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T091614Z
+    - ID: "34396860-580b-497d-819c-8f6b12397dd9"
+      Hint: relatedArticles
+      Type: Multilist
+      Value: |
+        {477F89DB-6E89-42D0-9AC0-F91489270D00}
+        {25B62BD5-BF6A-4E5B-BA14-F4C95AF4A661}
+    - ID: "82efae60-229a-49ed-a5eb-e56f5f7f27df"
+      Hint: description
+      Value: Checkout more articles related to the above topic
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: Related Articles

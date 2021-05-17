@@ -1,0 +1,34 @@
+﻿---
+ID: "fe025fcc-7587-430a-a4ff-7843b633f720"
+Parent: "24ead160-b13f-4fc9-982e-c1426e090b12"
+Template: "6c532e94-fddc-4aa5-96bf-d2e2ee12273f"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Home/News Articles
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{985AE9AE-D4FA-4A18-B457-512D70CCE8CD}"
+          s:id="{302488A1-5DCA-4311-A575-76D50ECAF394}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T055856Z
+    - ID: "2c9d2e49-2b2e-4e02-bd13-dd1b4fd3941e"
+      Hint: metaTitle
+      Value: News
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: News

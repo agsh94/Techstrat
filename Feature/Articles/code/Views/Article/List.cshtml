@@ -1,0 +1,32 @@
+﻿@using Sitecore.Feature.Articles
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+<div class="w3-col">
+    <!-- Blog entry -->
+    @foreach (var item in Model)
+    {
+        <div class="w3-card-4 w3-margin w3-white">
+            <div class="row">
+                <div class="col-md-3">
+                    @Html.Sitecore().Field("image", item)
+                </div>
+                <div class="col-md-9">
+                    <div class="w3-container">
+                        <a href=@Sitecore.Links.LinkManager.GetItemUrl(item)>
+                            <h3><b>@item.Fields["title"]</b></h3>
+                        </a>
+                        <span class="w3-opacity">
+                            @Html.Sitecore().Field("publishDate", item, new { format = "MMM\ndd,yyyy" })
+                        </span>
+                        <h5>
+                            <i>@item.Fields["summary"]</i>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+            @*<div class="w3-container">
+                    <h4>@item.Fields["description"]</h4>
+                </div>*@
+        </div>
+    }
+</div>

@@ -1,0 +1,25 @@
+﻿---
+ID: "ca64448a-15f7-4845-98c4-6aae13f53780"
+Parent: "8c387133-2b0d-4373-aeb7-a798b4eb24f3"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Hustle/Content Templates/RelatedArticle
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applicationsv2/32x32/book_yellow.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{4E18830F-1643-43F2-A4C2-1C401A82EA11}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{63B669F4-9FB3-4348-BC2D-D9A2AC48C46E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T091309Z

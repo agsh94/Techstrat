@@ -1,0 +1,27 @@
+﻿---
+ID: "8efd70ea-2f78-4341-ae49-6a9cbccfa4e2"
+Parent: "9533bea1-9dad-4f51-91d5-ccaf3f7d34ac"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Articles/ArticleDetails
+DB: master
+SharedFields:
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{38EE8BB9-1414-404B-8A39-7651BF5AE9A2}"
+- ID: "94069f66-609c-48b0-8281-521c30fb269d"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: Detail
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.Articles.Controllers.ArticleController, Sitecore.Feature.Articles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T060432Z

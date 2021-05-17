@@ -1,0 +1,18 @@
+﻿---
+ID: "53e068c2-134d-4d31-9ba4-efec0f0f3e7e"
+Parent: "645073fe-3b9f-4a46-b944-96b7ab7b205d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Datasources
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T090802Z

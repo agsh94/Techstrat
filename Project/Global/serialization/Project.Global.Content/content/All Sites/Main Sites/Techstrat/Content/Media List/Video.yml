@@ -1,0 +1,20 @@
+﻿---
+ID: "17d57644-3b6d-4ce7-8b1e-ada97f64e013"
+Parent: "6ff47606-dcde-4d64-857d-076adc9a94ea"
+Template: "857f4d60-19e3-4048-9b6a-4fc001244709"
+Path: /sitecore/content/All Sites/Main Sites/Techstrat/Content/Media List/Video
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T055631Z
+    - ID: "578f3b86-6563-4384-8e83-bf651928c0a2"
+      Hint: value
+      Value: video
+    - ID: "7088f165-0e81-47ae-89fc-9986a9662cf5"
+      Hint: key
+      Value: 2

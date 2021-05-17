@@ -1,0 +1,42 @@
+﻿---
+ID: "8356b773-dfee-4884-ba19-bc303d8d00a7"
+Parent: "fe025fcc-7587-430a-a4ff-7843b633f720"
+Template: "d5d8d41c-7421-4a26-9776-6a80c5857256"
+Path: "/sitecore/content/All Sites/Main Sites/Techstrat/Home/News Articles/gba-survey-announcement"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: GBA Survey Announcement
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c7707e8-7de7-42e5-86c9-e824da83a36c"
+      Hint: publishDate
+      Value: 20210512T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T151926Z
+    - ID: "2c9d2e49-2b2e-4e02-bd13-dd1b4fd3941e"
+      Hint: metaTitle
+      Value: "gba-survey-announcement"
+    - ID: "3d67b2a8-1858-42e4-9884-0fb9953817f5"
+      Hint: metaDescription
+      Value: GBA Survey Announcement
+    - ID: "82efae60-229a-49ed-a5eb-e56f5f7f27df"
+      Hint: description
+      Value: |
+        <p>The findings also suggested that parents predominately rely on bank savings for wealth accumulation despite the enduring low interest environment, limiting their ability to grow income in the face of inflationary pressures such as soaring education fees and property prices.</p>
+        <p>Conducted in the 11 cities of the Greater Bay Area (Remarks 1), the survey interviewed 500 Hong Kong parents (with children under 15 years of age) or couples who planned to give birth within five years.</p>
+    - ID: "8ed70b15-fc90-44ce-9a44-d66410da27f8"
+      Hint: summary
+      Value: Reliance on savings limits income growth in face of inflationary pressures
+    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
+      Hint: title
+      Value: Techstrat survey finds more than half of parents save up to 40% of their family income for children’s future
+    - ID: "f1c7dee5-a3db-48bc-9efb-be798a70d009"
+      Hint: image
+      Value: |
+        <image mediaid="{E4499DEF-532B-482B-9E1D-10ACB3D1CC1E}" />

@@ -1,0 +1,14 @@
+﻿---
+ID: "1000dbbd-6ccf-48e6-af34-1849833085a3"
+Parent: "89271ed1-b629-4703-ba53-90433a7a0865"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/_article/Info
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210516T061606Z
