@@ -32,7 +32,7 @@
             {
                 throw new ArgumentNullException(nameof(contextItem));
             }
-            Data.Fields.MultilistField relatedArticles = contextItem?.Fields["relatedArticles"];
+            Data.Fields.MultilistField relatedArticles = contextItem?.Fields[Constants.Fields.RelatedArticlesField];
             Item[] items = relatedArticles?.GetItems();
 
             return items.OrderBy(x => x.Name);

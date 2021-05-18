@@ -18,9 +18,4 @@ Languages:
       Value: |
         {477F89DB-6E89-42D0-9AC0-F91489270D00}
         {25B62BD5-BF6A-4E5B-BA14-F4C95AF4A661}
-    - ID: "82efae60-229a-49ed-a5eb-e56f5f7f27df"
-      Hint: description
-      Value: Checkout more articles related to the above topic
-    - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
-      Hint: title
-      Value: Related Articles
+        {A8815B25-CBE7-46C2-AEF9-97B7F5B5DDA6}

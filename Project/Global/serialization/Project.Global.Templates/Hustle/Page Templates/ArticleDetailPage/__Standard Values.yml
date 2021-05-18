@@ -52,6 +52,3 @@ Languages:
     - ID: "c5687f02-c69e-4e4a-a073-25fb4bcce84a"
       Hint: title
       Value: $name
-    - ID: "d345e0c0-3d3e-4d0d-904c-7960cebb7a8b"
-      Hint: mediaType
-      Value: Image

@@ -8,18 +8,18 @@
         <div class="w3-card-4 w3-margin w3-white">
             <div class="row">
                 <div class="col-md-3">
-                    @Html.Sitecore().Field("image", item)
+                    @Html.Sitecore().Field(Constants.Fields.Image, item)
                 </div>
                 <div class="col-md-9">
                     <div class="w3-container">
                         <a href=@Sitecore.Links.LinkManager.GetItemUrl(item)>
-                            <h3><b>@item.Fields["title"]</b></h3>
+                            <h3><b>@item.Fields[Constants.Fields.Title]</b></h3>
                         </a>
                         <span class="w3-opacity">
-                            @Html.Sitecore().Field("publishDate", item, new { format = "MMM\ndd,yyyy" })
+                            @Html.Sitecore().Field(Constants.Fields.PublishDate, item, new { format = "MMM\ndd,yyyy" })
                         </span>
                         <h5>
-                            <i>@item.Fields["summary"]</i>
+                            <i>@item.Fields[Constants.Fields.Summary]</i>
                         </h5>
                     </div>
                 </div>

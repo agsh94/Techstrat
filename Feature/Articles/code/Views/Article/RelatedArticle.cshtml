@@ -11,9 +11,9 @@
             {
                 <li class="one_third">
                     <article>
-                        <h4 class="heading">@item.Fields["title"]</h4>
-                        <h6>@Html.Sitecore().Field("publishDate", item, new { format = "MMM\ndd,yyyy" })</h6>
-                        <p>@item.Fields["summary"]</p>
+                        <h4 class="heading">@item.Fields[Constants.Fields.Title]</h4>
+                        <h6>@Html.Sitecore().Field(Constants.Fields.PublishDate, item, new { format = "MMM\ndd,yyyy" })</h6>
+                        <p>@item.Fields[Constants.Fields.Summary]</p>
                         <footer><a href=@Sitecore.Links.LinkManager.GetItemUrl(item)><i class="fas fa-arrow-right"></i></a></footer>
                     </article>
                 </li>
