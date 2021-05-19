@@ -119,6 +119,12 @@
   <ItemGroup>
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Foundation\MultiTenant\code\Sitecore.Foundation.MultiTenant.csproj">
+      <Project>{b36b95ca-4afb-421c-b9db-2bbca218ecb9}</Project>
+      <Name>Sitecore.Foundation.MultiTenant</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
