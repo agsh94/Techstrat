@@ -11,6 +11,11 @@
     [Service(typeof(IArticleRepository))]
     public class ArticleRepository : IArticleRepository
     {
+        /// <summary>
+        /// To-Do: In ideal circumstances, the repository will have a dependency with the controller.
+        /// </summary>
+        /// <param name="contextItem"></param>
+        /// <returns></returns>
         public IEnumerable<Item> Get(Item contextItem)
         {
             if (contextItem == null)
@@ -22,6 +27,11 @@
             return contextItem.GetChildren().OrderBy(x => x.Name);
 
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="contextItem"></param>
+        /// <returns></returns>
         public Item GetArticleDetail(Item contextItem)
         {
             if (contextItem == null)
@@ -32,6 +42,11 @@
             // return article details
             return contextItem;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="contextItem"></param>
+        /// <returns></returns>
         public IEnumerable<Item> GetRelatedArticle(Item contextItem)
         {
             if (contextItem == null)
