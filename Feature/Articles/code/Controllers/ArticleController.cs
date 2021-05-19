@@ -10,18 +10,30 @@ namespace Sitecore.Feature.Articles.Controllers
         {
 
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public ActionResult List()
         {
             var articleRepository = new ArticleRepository();
             var items = articleRepository.Get(RenderingContext.Current.Rendering.Item);
             return this.View("List", items);
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Detail()
         {
             var articleDetailRepository = new ArticleRepository();
             var item = articleDetailRepository.GetArticleDetail(Context.Item);
             return this.View("Detail", item);
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public ActionResult RelatedArticle()
         {
             var articleRepository = new ArticleRepository();
